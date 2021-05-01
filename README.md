@@ -14,3 +14,6 @@ This exercise was created to test your knowledge and get more familiar with Java
 *  Run npx lite-server or lite-server to see what the example card we will be making looks like!!
 *  Index.js is empty and ready for you to code in!
   * The CSS is already built for you, so *cough cough* if you match the class names...
+
+
+# HACKSTREETS BACK, ALRIGHT!
