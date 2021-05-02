@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Nick Carter",
       "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcaTIdXNZg5DVbsFCs8hPkFrk39Ck4RHCIziQXTtR9-zn0SbO",
-      "likes": 0,
+      "likes": 13,
       "created_at": "2021-03-19T22:11:48.841Z",
       "updated_at": "2021-03-19T22:11:48.841Z"
     },
@@ -125,6 +125,11 @@
       "comment": "And that makes you larger than life",
       "created_at": "2021-03-19T22:11:48.860Z",
       "updated_at": "2021-03-19T22:11:48.860Z"
+    },
+    {
+      "cult_id": "1",
+      "comment": "asd",
+      "id": 13
     }
   ]
 }
